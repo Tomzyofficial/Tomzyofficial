@@ -9,6 +9,5 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a happy soul and love to carry everyone along
 
-## Next.Js
-- Using Redirect() function directly inside a server action will throw a NEXT_REDIRECT error especially when used inside the try/catch function. To solve this problem, it's best to use it outside the try/catch function. And it's advisable to use the permanentRedirect function on the server action but on the client, you can choose to use either the Redirect() or permanentRedirect(). The Redirect() and permanentRedirect() can either have (push - which adds new entry to the browser history stack and replace - which replaces the current URL in the browser history stack)
+
   
