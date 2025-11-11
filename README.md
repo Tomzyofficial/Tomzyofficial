@@ -6,10 +6,10 @@
 
 **I'm a full-stack web developer with a passion for technology and a strong drive to solve problems.**
 
-💻 I write clean and well-structured code
-📘 I recently earned a certificate in Web and Computer Programming from Brigham Young University-Idaho, where I’m currently pursuing a second degree in Software Development. I previously earned a Bachelor of Science in Computer Science.
+- 💻 I write clean and well-structured code
+- 📘 I recently earned a certificate in Web and Computer Programming from Brigham Young University-Idaho, where I’m currently pursuing a second degree in Software Development. I previously earned a Bachelor of Science in Computer Science.
 
-Tech Stacks
+## Tech Stacks
 
 - ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 - ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -31,8 +31,8 @@ Check out some of my interesting projects:
 - [https://blueseedfinances.wuaze.com](https://blueseedfinances.wuaze.com)
 - [https://whiteskyventures.wuaze.com](https://whiteskyventures.wuaze.com)
 
-🤔 I’m open to collaborations and work opportunities that support my growth in tech
-💬 Want to know more about me? Ask me!
-📫 How to reach me: (chukwuebuka.ibeh54@gmail.com, +234 816 704 1738)
-😄 Pronouns: He/Him
-⚡ Fun fact: I'm a happy soul and love to carry everyone along
+- 🤔 I’m open to collaborations and work opportunities that support my growth in tech
+- 💬 Want to know more about me? Ask me!
+- 📫 How to reach me: (chukwuebuka.ibeh54@gmail.com, +234 816 704 1738)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I'm a happy soul and love to carry everyone along
